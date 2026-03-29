@@ -1,0 +1,17 @@
+# Core analysis (analysis.ipynb)
+pandas>=1.5.0
+numpy<2
+matplotlib>=3.5.0
+seaborn>=0.12.0
+scipy>=1.9.0
+scikit-learn>=1.1.0
+statsmodels>=0.13.0
+
+# Video emotion extraction (extract_emotions.py)
+opencv-python>=4.5.0
+deepface>=0.0.79
+tqdm>=4.60.0
+
+# Audio feature extraction (extract_audio_features.py)
+librosa>=0.10.0
+soundfile>=0.12.0

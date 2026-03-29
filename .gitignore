@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and local run artifacts
+logs/
+*.log
+nohup.out
+
+# Video corpus (large; place downloads here locally)
+run/videos/
+*.mp4
+
+# IDE / editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
